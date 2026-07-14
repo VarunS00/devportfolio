@@ -1,17 +1,17 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Varun Srinivasan",
+  title: "High School Student / Aspiring STEM Major",
+  description: "Portfolio website of Varun Srinivasan",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "vsrin00@gmail.com",
+    linkedin: "",
+    twitter: "",
+    github: "https://github.com/VarunS00",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Hi, I'm Varun Srinivasan, a rising sophomore with a passion for computer science, mathematics, and lifelong learning. I have experience with Python and HTML and enjoy challenging myself with new programming projects. My goal is to continue developing my technical skills and eventually pursue a career where I can use technology to solve meaningful problems and help others.",
+  skills: ["Python", "HTML",],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
