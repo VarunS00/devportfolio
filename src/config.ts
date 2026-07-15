@@ -37,44 +37,34 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "ThinkNeuro - Software Engineering Practicum",
+      title: "Software Engineering Intern",
+      dateRange: "Jan 2026 - May 2026 | June 2026 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
-      ],
-    },
-    {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Learned how to use Git and GitHub for version control, code management, and team collaboration.",
+        "Developed a personal website using Visual Studio Code, GitHub, and Python.",
+        "Collaborated with a team to build a web application using Python and GitHub.",
       ],
     },
   ],
   education: [
     {
       school: "Fort Mill High School",
+      role_course: "Rising Sophomore",
       dateRange: "2025 - Present",
       achievements: [
         "5.12 Weighted GPA",
         "Secretary of Chemistry Club",
         "Member of Engineering Club",
+      ],
+    },
+    {
+      school: "Beaver Works Summer Institute @ MIT",
+      role_course: "Application-Specific Integrated Circuits (ASICs) • Online",
+      dateRange: "Feb 2026 - Apr 2026",
+      achievements: [
+        "Learned how semiconductors and transistors are used to build computer chips",
+        "Learned how advanced nanometer-scale technology is used to improve chip design",
       ],
     },
   ],

@@ -47,9 +47,11 @@ const hasExperience = siteConfig.experience && siteConfig.experience.length > 0;
                           {exp.company}
                         </p>
                       </div>
-                      <span class="text-xs sm:text-sm text-gray-500 mt-2 sm:mt-0">
-                        {exp.dateRange}
-                      </span>
+                      <div class="text-xs sm:text-sm text-gray-500 mt-2 sm:mt-0 space-y-2 text-right">
+                       {exp.dateRange.split("|").map((date) => (
+                         <div>{date.trim()}</div>
+                         ))}
+                      </div>
                     </div>
 
                     <ul class="space-y-2">
