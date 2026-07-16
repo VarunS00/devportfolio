@@ -14,25 +14,18 @@ export const siteConfig = {
   skills: ["Python", "HTML",],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Movie Reccomender",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Discover your next favorite movie through an AI-powered recommendation engine that learns your preferences and delivers personalized suggestions tailored to your taste",
+      link: "https://varuns00.github.io/AI-movies/",
+      skills: ["HTML", "CSS"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Chemistry Research Project",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Explored the science behind fireworks by researching how metal salts create vibrant colors through flame tests, connecting principles of chemistry to real-world pyrotechnic displays",
+      link: "https://docs.google.com/presentation/d/1ZpCe1bWFTgdvM9XMhSlyWR5yStgphAdm-o76rVLzbps/present",
+      skills: ["Chemistry", "Research"],
     },
   ],
   experience: [
