@@ -11,20 +11,20 @@ export const siteConfig = {
   },
   aboutMe:
     "Hi, I'm Varun Srinivasan, a rising sophomore with a passion for computer science, mathematics, and lifelong learning. I have experience with Python and HTML and enjoy challenging myself with new programming projects. My goal is to continue developing my technical skills and eventually pursue a career where I can use technology to solve meaningful problems and help others.",
-  skills: ["Python", "HTML",],
+  skills: ["Python", "HTML","Git","Github"],
   projects: [
     {
-      name: "Movie Reccomender",
+      name: "Movie Recommender",
       description:
-        "Discover your next favorite movie through an AI-powered recommendation engine that learns your preferences and delivers personalized suggestions tailored to your taste",
+        "Discover your next favorite movie through an AI-powered recommendation engine that learns your preferences and delivers personalized suggestions tailored to your taste.",
       link: "https://varuns00.github.io/AI-movies/",
       skills: ["HTML", "CSS"],
     },
     {
       name: "Chemistry Research Project",
       description:
-        "Explored the science behind fireworks by researching how metal salts create vibrant colors through flame tests, connecting principles of chemistry to real-world pyrotechnic displays",
-      link: "https://docs.google.com/presentation/d/1ZpCe1bWFTgdvM9XMhSlyWR5yStgphAdm-o76rVLzbps/present",
+        "Explored the science behind fireworks by researching how metal salts create vibrant colors through flame tests, connecting principles of chemistry to real-world pyrotechnic displays.",
+      link: "https://docs.google.com/presentation/d/1ZpCe1bWFTgdvM9XMhSlyWR5yStgphAdm-o76rVLzbps/present?slide=id.g3f536a8d2b9_3_50#slide=id.g3f536a8d2b9_3_50",
       skills: ["Chemistry", "Research"],
     },
   ],
@@ -35,7 +35,7 @@ export const siteConfig = {
       dateRange: "Jan 2026 - May 2026 | June 2026 - Present",
       bullets: [
         "Learned how to use Git and GitHub for version control, code management, and team collaboration.",
-        "Developed a personal website using Visual Studio Code, GitHub, and Python.",
+        "Developed a personal website using Visual Studio Code, GitHub, and HTML.",
         "Collaborated with a team to build a web application using Python and GitHub.",
       ],
     },
@@ -57,7 +57,7 @@ export const siteConfig = {
       dateRange: "Feb 2026 - Apr 2026",
       achievements: [
         "Learned how semiconductors and transistors are used to build computer chips",
-        "Learned how advanced nanometer-scale technology is used to improve chip design",
+        "Explored how advanced nanometer-scale technology is used to improve chip design",
       ],
     },
   ],
