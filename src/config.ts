@@ -25,7 +25,7 @@ export const siteConfig = {
       description:
         "Explored the science behind fireworks by researching how metal salts create vibrant colors through flame tests, connecting principles of chemistry to real-world pyrotechnic displays.",
       link: "https://docs.google.com/presentation/d/1ZpCe1bWFTgdvM9XMhSlyWR5yStgphAdm-o76rVLzbps/present?slide=id.g3f536a8d2b9_3_50#slide=id.g3f536a8d2b9_3_50",
-      skills: ["Chemistry", "Research"],
+      skills: ["Scientific Experimentation", "Data Analysis"],
     },
   ],
   experience: [
